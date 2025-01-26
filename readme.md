@@ -31,7 +31,6 @@
 如果你有任何问题或建议，请随时联系我：
 
 - 邮箱: amyheiny@gmail.com
-- GitHub: https://github.com/AmyHei
 - Data Scientist / Data analyst / ML engineer / NLP / LLM 算法工程师加群, 请加微信evahei
 
 感谢你的支持和贡献！
