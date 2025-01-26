@@ -32,6 +32,7 @@
 
 - 邮箱: amyheiny@gmail.com
 - GitHub: https://github.com/AmyHei
+- Data Scientist / Data analyst / ML engineer / NLP 加群, 请加微信evahei
 
 感谢你的支持和贡献！
 
